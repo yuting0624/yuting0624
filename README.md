@@ -34,12 +34,17 @@ I'm an aspiring programmer, constantly learning and improving my skills in softw
 ## 🌟 Featured Projects
 
 ### [Vision Bridge](https://github.com/yuting0624/VisionBridge)
+
+
 <div align="center">
   <a href="https://googlecloudjapanaihackathon.devpost.com/">
-    <img src="https://img.shields.io/badge/🏆_Grand_Prize_Winner-Google_Cloud_AI_Hackathon_2024-4285F4?style=for-the-badge&labelColor=202024" alt="Grand Prize - Google Cloud AI Hackathon 2024"/>
+    <img src="https://img.shields.io/badge/🏆_Grand_Prize_Winner-Google_Cloud_AI_Hackathon_2024-000000?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Grand Prize - Google Cloud AI Hackathon 2024"/>
   </a>
 </div>
+
+
 An assistive application for visually impaired individuals, developed for the Google Cloud AI Hackathon 2024.
+
 
 - **Tech Stack**: Next.js, React, TypeScript, Node.js, Express, Google Cloud Platform (Vertex AI, Speech-to-Text, Text-to-Speech, DialogFlow CX, Cloud Run, Cloud Functions)
 - **Key Features**:
@@ -56,10 +61,10 @@ An assistive application for visually impaired individuals, developed for the Go
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Built_with-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Built with Gemini"/>
-    <img src="https://img.shields.io/badge/Deployed_on-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Deployed on Google Cloud"/>
+    <img src="https://img.shields.io/badge/Built_with-Gemini-1A73E8?style=flat-square&logo=google&logoColor=white&labelColor=090909" alt="Built with Gemini"/>
+    <img src="https://img.shields.io/badge/Deployed_on-Google_Cloud-1A73E8?style=flat-square&logo=googlecloud&logoColor=white&labelColor=090909" alt="Deployed on Google Cloud"/>
     <a href="https://cloudonair.withgoogle.com/events/generative-ai-summit-24-fall">
-      <img src="https://img.shields.io/badge/Featured_at-Generative_AI_Summit_Tokyo_'24-fbbc05?style=flat-square&logo=google&logoColor=black" alt="Featured at Generative AI Summit Tokyo '24"/>
+      <img src="https://img.shields.io/badge/Featured_at-Generative_AI_Summit_Tokyo_'24-1A73E8?style=flat-square&logo=google&logoColor=white&labelColor=090909" alt="Featured at Generative AI Summit Tokyo '24"/>
     </a>
   </p>
 </div>
