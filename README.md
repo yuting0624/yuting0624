@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yutinglin123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yutinglin.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <!--T<a href="https://yutinglin.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>--> 
   <a href="mailto:yuting0624@keio.jp"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -14,7 +14,7 @@ I'm an aspiring programmer, constantly learning and improving my skills in softw
 - 🔭 I'm currently working on AI-powered assistive technologies
 - 🌱 I'm learning Google Cloud Platform, AWS, Azure, AI/ML, and web application development
 - 👯 I'm looking to collaborate on projects with social impact
-- 💬 Ask me about AI applications, cloud computing, and inclusive technology development
+- 💬 Let's talk about AI applications, cloud computing, and inclusive technology development
 
 ## 🛠 Languages and Tools
 
@@ -34,7 +34,11 @@ I'm an aspiring programmer, constantly learning and improving my skills in softw
 ## 🌟 Featured Projects
 
 ### [Vision Bridge](https://github.com/yuting0624/VisionBridge)
-
+<div align="center">
+  <a href="https://googlecloudjapanaihackathon.devpost.com/">
+    <img src="https://img.shields.io/badge/🏆_Grand_Prize_Winner-Google_Cloud_AI_Hackathon_2024-4285F4?style=for-the-badge&labelColor=202024" alt="Grand Prize - Google Cloud AI Hackathon 2024"/>
+  </a>
+</div>
 An assistive application for visually impaired individuals, developed for the Google Cloud AI Hackathon 2024.
 
 - **Tech Stack**: Next.js, React, TypeScript, Node.js, Express, Google Cloud Platform (Vertex AI, Speech-to-Text, Text-to-Speech, DialogFlow CX, Cloud Run, Cloud Functions)
@@ -49,6 +53,16 @@ An assistive application for visually impaired individuals, developed for the Go
     <img src="https://img.youtube.com/vi/XHFn-MErwkU/0.jpg" alt="Vision Bridge Demo" width="50%">
   </a>
 </p>
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Built_with-Gemini-8E75B2?style=flat-square&logo=google&logoColor=white" alt="Built with Gemini"/>
+    <img src="https://img.shields.io/badge/Deployed_on-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Deployed on Google Cloud"/>
+    <a href="https://cloudonair.withgoogle.com/events/generative-ai-summit-24-fall">
+      <img src="https://img.shields.io/badge/Featured_at-Generative_AI_Summit_Tokyo_'24-fbbc05?style=flat-square&logo=google&logoColor=black" alt="Featured at Generative AI Summit Tokyo '24"/>
+    </a>
+  </p>
+</div>
 
 ## 📚 Recent Learning
 
