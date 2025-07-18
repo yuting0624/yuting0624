@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yuting 👋</h1>
-<h3 align="center">An aspiring software engineer passionate about AI and cloud technologies</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&width=435&lines=Customer+Engineer+at+Google+Cloud;Empower+businesses+with+magic+of+AI)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yutinglin123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring programmer, constantly learning and improving my skills in software development. Recently, I participated in the Google Cloud AI Hackathon 2024, where I developed an application to assist visually impaired individuals.
+I'm a customer engineer at Google Cloud, foucusing on Generative AI.
 
 - 🔭 I'm currently working on AI-powered assistive technologies
 - 🌱 I'm learning Google Cloud Platform, AWS, Azure, AI/ML, and web application development
