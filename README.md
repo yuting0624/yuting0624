@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm Yuting 👋</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&width=435&lines=Customer+Engineer+at+Google+Cloud;Empower+businesses+with+magic+of+AI)](https://git.io/typing-svg)
+<h1 align="center">Hi there, I'm Yuting </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&width=435&lines=Customer+Engineer+at+Google+Cloud;Empower+businesses+with+magic+of+AI" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yutinglin123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -16,7 +18,7 @@ I'm a customer engineer at Google Cloud, foucusing on Generative AI.
 - 👯 I'm looking to collaborate on projects with social impact
 - 💬 Let's talk about AI applications, cloud computing, and inclusive technology development
 
-## 🛠 Languages and Tools
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
