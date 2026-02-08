@@ -94,5 +94,5 @@ An assistive application for visually impaired individuals, developed for the Go
 </p>
 
 <p align="center">
-  Language Skills: Japanese (Native), English (Business Level), Chinese (Native)
+  Language Skills: Japanese (Native), English (Business Level), Mandarin (Native)
 </p>
