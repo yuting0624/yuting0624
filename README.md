@@ -1,98 +1,127 @@
-<h1 align="center">Hi there, I'm Yuting </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&pause=1000&width=435&lines=Customer+Engineer+at+Google+Cloud;Empower+businesses+with+magic+of+AI" alt="Typing SVG" /></a>
-</p>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Hey, I'm Yuting
+</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yutinglin123/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <!--T<a href="https://yutinglin.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>--> 
-  <a href="mailto:yuting0624@keio.jp"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-</p>
-
-## 👨‍💻 About Me
-
-I'm a customer engineer at Google Cloud, foucusing on Generative AI.
-
-- 🔭 I'm currently working on AI-powered assistive technologies
-- 🌱 I'm learning Google Cloud Platform, AWS, Azure, AI/ML, and web application development
-- 👯 I'm looking to collaborate on projects with social impact
-- 💬 Let's talk about AI applications, cloud computing, and inclusive technology development
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills & Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</p>
-
-## 🌟 Featured Projects
-
-### [Vision Bridge](https://github.com/yuting0624/VisionBridge)
-
-
-<div align="center">
-  <a href="https://googlecloudjapanaihackathon.devpost.com/">
-    <img src="https://img.shields.io/badge/🏆_Grand_Prize_Winner-Google_Cloud_AI_Hackathon_2024-000000?style=for-the-badge&logo=google&logoColor=white&labelColor=0D1117" alt="Grand Prize - Google Cloud AI Hackathon 2024"/>
-  </a>
-</div>
-
-
-An assistive application for visually impaired individuals, developed for the Google Cloud AI Hackathon 2024.
-
-
-- **Tech Stack**: Next.js, React, TypeScript, Node.js, Express, Google Cloud Platform (Vertex AI, Speech-to-Text, Text-to-Speech, DialogFlow CX, Cloud Run, Cloud Functions)
-- **Key Features**:
-  - Real-time environment recognition
-  - Navigation assistance
-  - Object and text recognition
-  - Voice command interface
-
-<p align="center">
-  <a href="https://youtu.be/XHFn-MErwkU">
-    <img src="https://img.youtube.com/vi/XHFn-MErwkU/0.jpg" alt="Vision Bridge Demo" width="50%">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&lines=AI+Practice+Customer+Engineer+%40+Google+Cloud;Vertex+AI+%7C+Gemini+%7C+Generative+AI+Specialist;Building+the+future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Built_with-Gemini-1A73E8?style=flat-square&logo=google&logoColor=white&labelColor=090909" alt="Built with Gemini"/>
-    <img src="https://img.shields.io/badge/Deployed_on-Google_Cloud-1A73E8?style=flat-square&logo=googlecloud&logoColor=white&labelColor=090909" alt="Deployed on Google Cloud"/>
-    <a href="https://cloudonair.withgoogle.com/events/generative-ai-summit-24-fall">
-      <img src="https://img.shields.io/badge/Featured_at-Generative_AI_Summit_Tokyo_'24-1A73E8?style=flat-square&logo=google&logoColor=white&labelColor=090909" alt="Featured at Generative AI Summit Tokyo '24"/>
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/yutinglin123/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://zenn.dev/google_cloud_jp">
+    <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
+  </a>
+  <a href="mailto:yuting0624@keio.jp">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-## 📚 Recent Learning
+<br>
 
-- Google Cloud Platform: Exploring AI/ML services and Cloud AI Builder
-- Web Development: Deepening knowledge in Next.js and TypeScript
-- AI Ethics: Practicing inclusive and responsible AI development
+## 🎯 About Me
+
+```typescript
+const yuting = {
+  role: "AI Practice Customer Engineer",
+  company: "Google Cloud Japan",
+  focus: ["Vertex AI", "Gemini", "Generative AI", "MLOps"],
+  languages: ["Japanese 🇯🇵", "English 🇺🇸", "Mandarin 🇹🇼"],
+  currentlyExploring: "Claude on Vertex AI + AI Agents",
+  passions: ["Inclusive Tech", "AI for Social Good", "Open Source"]
+};
+```
+
+<br>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=gcp,python,typescript,nextjs,react,nodejs,docker,git&theme=dark" />
+</p>
+
+<details>
+<summary><b>🔥 Google Cloud Expertise</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dialogflow_CX-FF9800?style=flat-square&logo=dialogflow&logoColor=white" />
+</p>
+</details>
+
+<br>
+
+## 🏆 Featured Work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🥇 Vision Bridge</h3>
+      <p align="center">
+        <a href="https://github.com/yuting0624/VisionBridge">
+          <img src="https://img.shields.io/badge/Grand_Prize-Google_Cloud_AI_Hackathon_2024-FFD700?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">
+        AI-powered assistive app for visually impaired users.<br>
+        Real-time environment recognition & navigation.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📝 Tech Writing</h3>
+      <p align="center">
+        <a href="https://zenn.dev/google_cloud_jp/articles/b65dc4d6df7f34">
+          <img src="https://img.shields.io/badge/Zenn-Claude_on_Vertex_AI-3EA8FF?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">
+        Technical articles on Vertex AI, Gemini,<br>
+        and enterprise AI solutions.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuting0624&show_icons=true&theme=radical" alt="yuting0624's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuting0624&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuting0624&theme=tokyonight&hide_border=true&background=0D1117" width="48%" />
+</p>
+
+<br>
+
+## 🌏 Let's Connect!
+
+<p align="center">
+  <i>Passionate about leveraging AI to create a more inclusive society.</i><br>
+  <i>Always open to collaboration and new ideas!</i>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuting0624&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://komarev.com/ghpvc/?username=yuting0624&style=for-the-badge&color=4285F4" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  I'm passionate about leveraging AI and technology to create a more inclusive society. Always open to new ideas and collaboration opportunities!
-</p>
-
-<p align="center">
-  Language Skills: Japanese (Native), English (Business Level), Mandarin (Native)
+  <sub>🤖 This profile is occasionally updated by <a href="https://github.com/openclaw/openclaw">Ruby</a>, my AI assistant running on Vertex AI Claude.</sub>
 </p>
