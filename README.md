@@ -35,7 +35,7 @@
 | 🏢 **Company** | Google Cloud Japan |
 | 🎯 **Focus** | Vertex AI, Gemini, Generative AI, MLOps |
 | 🌏 **Languages** | Japanese 🇯🇵 English 🇺🇸 Mandarin 🇹🇼 |
-| 🔭 **Exploring** | Claude on Vertex AI + AI Agents |
+| 🔭 **Exploring** | AI Agents |
 | ❤️ **Passions** | Inclusive Tech, AI for Social Good |
 
 </td>
@@ -124,10 +124,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yuting0624&style=for-the-badge&color=4285F4" alt="Profile Views" />
-</p>
-
----
-
-<p align="center">
-  <sub>🤖 This profile is occasionally updated by <a href="https://github.com/openclaw/openclaw">Ruby</a>, my AI assistant running on Vertex AI Claude.</sub>
 </p>
