@@ -13,11 +13,11 @@
   <a href="https://www.linkedin.com/in/yutinglin123/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://zenn.dev/google_cloud_jp">
+  <a href="https://zenn.dev/yuulin">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn"/>
   </a>
-  <a href="mailto:yuting0624@keio.jp">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://x.com/YuuLin123">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
 
@@ -25,16 +25,22 @@
 
 ## 🎯 About Me
 
-```typescript
-const yuting = {
-  role: "AI Practice Customer Engineer",
-  company: "Google Cloud Japan",
-  focus: ["Vertex AI", "Gemini", "Generative AI", "MLOps"],
-  languages: ["Japanese 🇯🇵", "English 🇺🇸", "Mandarin 🇹🇼"],
-  currentlyExploring: "Claude on Vertex AI + AI Agents",
-  passions: ["Inclusive Tech", "AI for Social Good", "Open Source"]
-};
-```
+<table>
+<tr>
+<td>
+
+| | |
+|---|---|
+| 💼 **Role** | AI Practice Customer Engineer |
+| 🏢 **Company** | Google Cloud Japan |
+| 🎯 **Focus** | Vertex AI, Gemini, Generative AI, MLOps |
+| 🌏 **Languages** | Japanese 🇯🇵 English 🇺🇸 Mandarin 🇹🇼 |
+| 🔭 **Exploring** | Claude on Vertex AI + AI Agents |
+| ❤️ **Passions** | Inclusive Tech, AI for Social Good |
+
+</td>
+</tr>
+</table>
 
 <br>
 
