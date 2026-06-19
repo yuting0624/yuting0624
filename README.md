@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&lines=AI+Practice+Customer+Engineer+%40+Google+Cloud;Vertex+AI+%7C+Gemini+%7C+Generative+AI+Specialist;Building+the+future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&lines=AI+Specialist+Customer+Engineer+%40+Google+Cloud;Vertex+AI+%7C+Gemini+%7C+Generative+AI+Specialist;Building+the+future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 | | |
 |---|---|
-| 💼 **Role** | AI Practice Customer Engineer |
+| 💼 **Role** | AI Specialist Customer Engineer |
 | 🏢 **Company** | Google Cloud Japan |
 | 🎯 **Focus** | Vertex AI, Gemini, Generative AI, MLOps |
 | 🌏 **Languages** | Japanese 🇯🇵 English 🇺🇸 Mandarin 🇹🇼 |
